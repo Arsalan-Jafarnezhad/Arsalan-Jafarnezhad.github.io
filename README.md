@@ -1,2 +1,1 @@
-# Arsalan-Jafarnezhad.github.io
-My Own website
+tailwindcss -i assets/styles/init.css -o assets/styles/main.css -m -w
